@@ -1,0 +1,6 @@
+0 24 169 130 clown1.jpg 0
+1 0 436 426 clown2.jpg 0
+2 100 592 6 clown3.jpg 0
+4 100 733 300 clown5.jpg 0
+5 80 168 363 clown1.jpg 0
+6 40 446 308 clown3.jpg 0
